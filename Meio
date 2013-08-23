@@ -1,0 +1,11 @@
+informação técnica
+
+Mercurial usa hashes SHA-1 para identificar revisões. Para acesso ao repositório através de uma rede, Mercurial utiliza um protocolo baseado em HTTP, que busca reduzir os pedidos de ida e volta, novas conexões e dados transferidos. Mercurial também pode trabalhar sobre ssh onde o protocolo é muito semelhante ao protocolo baseado em HTTP. Por padrão, ele usa um 3-way merge antes de chamar ferramentas de mesclagem externos.
+
+história
+
+Mackall primeiro Mercurial anunciou em 19 de abril de 2005. O impulso para isso foi o anúncio no início do mês por Bitmover que retiravam a versão gratuita do BitKeeper.
+BitKeeper tinha sido usado para as exigências do projeto de controle de versão do kernel Linux. Mackall decidiu escrever um sistema de controle de versão distribuído como um substituto para o uso com o kernel do Linux. Este projecto começou poucos dias depois de um outro projeto chamado Git, iniciado por Linus Torvalds com objectivos semelhantes.
+O projeto do kernel Linux decidiu usar Git ao invés de Mercurial, mas Mercurial agora é usado por muitos outros projetos (veja abaixo).
+Em uma resposta sobre a lista de discussão Mercurial, Matt Mackall explicou como o nome de "Mercurial" foi escolhido:
+Pouco antes do primeiro lançamento, eu li um artigo sobre o desastre Bitkeeper contínuo que descreveu Larry McVoy como mercurial (no sentido de "volúvel"). Tendo em conta os múltiplos sentidos, a abreviatura conveniente, eo bom ajuste com o meu esquema de nomes pré-existente (ver o meu endereço de email), é clicado instantaneamente. Mercurial é assim chamado em homenagem a Larry. Eu não sei se o mesmo acontece com Git.
