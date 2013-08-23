@@ -1,0 +1,87 @@
+Software relacionado 
+Captura de tela de hgk em ação
+
+
+Captura de tela do histórico do cliente TortoiseHg
+GUI interfaces para Mercurial incluem:
+Hgk ( tcl / tk )
+Isto é implementado como uma extensão mercurial, e faz parte da versão oficial. Este visualizador exibe o gráfico acíclico dirigido dos changesets de um repositório Mercurial. Esse visualizador pode ser invocado através do comando hg vista , se a extensão está habilitada. hgk foi originalmente baseado em uma ferramenta similar para Git chamado gitk. Há uma substituição hgk chamado hgview que está escrito em Python puro e fornece as interfaces GTK e QT.
+TortoiseHg
+TortoiseHg é uma extensão de shell e uma série de aplicativos para o sistema de controle de revisão distribuído Mercurial. Ele está disponível para Windows Explorer e GNOME Nautilus.
+Sombrio
+A Mac OS X GUI em Objective-C 2.0, roda em Mac OS X 10.5 e posterior.
+MacMercurial
+A GUI Mac OS X "não se destina a substituir completamente o uso de linha de comando do Mercurial, apenas para facilitar as operações Mercurial mais comuns", para Mac OS X 10.4 ou posterior.
+MacHg
+MacHg é livre e rápido multithreaded front end para o Mac OS X 10.6 e posterior.
+SourceTree
+A gratuito Mac OS X e Windows cliente GUI que funciona tanto com Mercurial e Git.
+hgtui
+A gratuito TUI cliente para Linux e Windows (usando cygwin).
+Ferramentas relacionados para fusão incluem (h) gct ( Qt ) e Meld .
+A extensão convert permite a importação de CVS , Darcs , Git , GNU Arch , Monocromático , Perforce , Bazaar e Subversion repositórios.
+Microsoft Visual Studio suporta Mercurial com o VisualHG e HgSccPackage plugins.
+NetBeans suporta Mercurial a partir da versão 6.
+Eclipse suporta Mercurial com o MercurialEclipse plugin.
+Adoção 
+
+Código fonte hosting 
+Veja também: Comparação de software de código aberto instalações de hospedagem
+Os seguintes sites oferecem o código-fonte livre de hospedagem de repositórios Mercurial:
+Bitbucket
+CodePlex 
+Google Code 
+Codebase pela Atech mídia 
+JavaForge por Intland Software (com tração pedidos para controlar a contribuição de código-fonte)
+Projeto Kenai pela Oracle Corporation
+SourceForge
+Assembla
+GNU Savannah
+Alioth por Debian
+BerliOS
+Kiln por Fog Creek Software
+Outros listados no Mercurial wiki
+Projetos usando Mercurial 
+Alguns projetos usando o Mercurial RCS distribuídos: 
+Adium
+Audacioso
+Coin3D 
+CubicWeb
+Dovecot IMAP servidor 
+Dreamwidth plataforma de blogging 
+GeeXboX
+GNU Saúde
+GNU Multi-Precision Biblioteca
+GNU Octave
+Ir linguagem de programação
+Rosnar
+Illumos 
+LIMÃO
+LinuxTV / Video4Linux
+Lugaru HD 
+LuxRender motor de renderização 3D
+Mercurial
+MoinMoin software wiki
+Mozilla 
+Mutt
+Nginx
+Netbeans 
+Nuxeo
+Ogre3D 
+OpenJDK 
+OpenIndiana 
+OSSEC
+PETSc
+Pidgin
+Python (linguagem de programação)
+RabbitMQ
+RawTherapee 
+Sábio 
+StyleCop
+Symbian OS
+Nokia_Maps 
+Tryton
+Tuenti
+Vitalidade
+W3C
+WiX
